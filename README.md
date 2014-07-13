@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html>
 <body>
 <h1><a href="http://www.iteblog.com">过往记忆</a>博客文章列表</h1>
